@@ -1,0 +1,40 @@
+h1 {text-align: center;
+font-size: 60px;}
+
+.lentejas {margin-left: 100px;}
+
+.milanesa {
+    margin-left: 510px;
+    display:inline-block;
+}
+
+.arroz {
+    margin-left: 520px;
+    display:inline-block;
+    
+}
+
+* {border: 2px solid red;}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.img2 {margin-left: 487px;}
+
+.img3 {margin-left: 464px;}
+
+body {background-image: url(https://img.freepik.com/premium-photo/wood-table-top-blurred-kitchen-backgroundx9_36051-895.jpg);
+    background-size: cover;
+    background-position: center bottom;
+}
+
+img {
+    margin-top: 1cm;
+}
+
+a {
+    margin-top: 10cm;
+    font-size: 25px;
+}
